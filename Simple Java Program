@@ -1,10 +1,14 @@
+// Importing basic necessary packages
 import java.io.*;
 import java.lang.*;
 
+// Creating a Class
 class SimpleJava
 {
+  // Creating main() method
   public static void main(String[]args)
   {
+    // Print statement
     System.out.println("Hello Java!");
   }
 }
